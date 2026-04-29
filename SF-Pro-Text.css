@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Light.woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-LightItalic.woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Thin.woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-ThinItalic.woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-Ultralight.woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Pro";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Pro/SF-Pro-Text-UltralightItalic.woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}

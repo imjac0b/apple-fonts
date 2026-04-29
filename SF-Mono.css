@@ -1,0 +1,84 @@
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-Light.woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-LightItalic.woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SF-Mono";
+  src: url("https://cdn.jsdelivr.net/gh/imjac0b/apple-fonts@latest/SF-Mono/SF-Mono-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
