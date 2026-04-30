@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Black.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Black.woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Bold.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Bold.woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -18,7 +18,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Heavy.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Heavy.woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -26,7 +26,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Light.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Light.woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -34,7 +34,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Medium.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Medium.woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -42,7 +42,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Regular.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Regular.woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -50,7 +50,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Semibold.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Semibold.woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -58,7 +58,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Thin.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Thin.woff2");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -66,7 +66,7 @@
 
 @font-face {
   font-family: "SF-Compact";
-  src: url("SF-Compact/Subsets/greek-SF-Compact-Rounded-Ultralight.woff2");
+  src: url("../../SF-Compact/Subsets/greek-SF-Compact-Rounded-Ultralight.woff2");
   font-weight: 200;
   font-style: normal;
   font-display: swap;

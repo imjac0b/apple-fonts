@@ -1,6 +1,6 @@
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-Black.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-Black.woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-BlackItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-BlackItalic.woff2");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-Bold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-Bold.woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-BoldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-BoldItalic.woff2");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-Heavy.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-Heavy.woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-HeavyItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-HeavyItalic.woff2");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-Medium.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-Medium.woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -56,7 +56,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-MediumItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-MediumItalic.woff2");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -64,7 +64,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-Regular.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-Regular.woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -72,7 +72,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-RegularItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-RegularItalic.woff2");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -80,7 +80,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-Semibold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-Semibold.woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -88,7 +88,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkExtraLarge-SemiboldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkExtraLarge-SemiboldItalic.woff2");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -96,7 +96,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-Black.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-Black.woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -104,7 +104,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-BlackItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-BlackItalic.woff2");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -112,7 +112,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-Bold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-Bold.woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -120,7 +120,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-BoldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-BoldItalic.woff2");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -128,7 +128,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-Heavy.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-Heavy.woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -136,7 +136,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-HeavyItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-HeavyItalic.woff2");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
@@ -144,7 +144,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-Medium.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-Medium.woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -152,7 +152,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-MediumItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-MediumItalic.woff2");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -160,7 +160,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-Regular.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-Regular.woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -168,7 +168,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-RegularItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-RegularItalic.woff2");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -176,7 +176,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-Semibold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-Semibold.woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -184,7 +184,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkLarge-SemiboldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkLarge-SemiboldItalic.woff2");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -192,7 +192,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-Black.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-Black.woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -200,7 +200,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-BlackItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-BlackItalic.woff2");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -208,7 +208,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-Bold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-Bold.woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -216,7 +216,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-BoldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-BoldItalic.woff2");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -224,7 +224,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-Heavy.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-Heavy.woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -232,7 +232,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-HeavyItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-HeavyItalic.woff2");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
@@ -240,7 +240,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-Medium.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-Medium.woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -248,7 +248,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-MediumItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-MediumItalic.woff2");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -256,7 +256,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-Regular.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-Regular.woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -264,7 +264,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-RegularItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-RegularItalic.woff2");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -272,7 +272,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-Semibold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-Semibold.woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -280,7 +280,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkMedium-SemiboldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkMedium-SemiboldItalic.woff2");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -288,7 +288,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-Black.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-Black.woff2");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -296,7 +296,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-BlackItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-BlackItalic.woff2");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -304,7 +304,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-Bold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-Bold.woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -312,7 +312,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-BoldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-BoldItalic.woff2");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -320,7 +320,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-Heavy.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-Heavy.woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -328,7 +328,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-HeavyItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-HeavyItalic.woff2");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
@@ -336,7 +336,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-Medium.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-Medium.woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -344,7 +344,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-MediumItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-MediumItalic.woff2");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -352,7 +352,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-Regular.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-Regular.woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -360,7 +360,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-RegularItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-RegularItalic.woff2");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -368,7 +368,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-Semibold.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-Semibold.woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -376,7 +376,7 @@
 
 @font-face {
   font-family: "NY";
-  src: url("NY/Subsets/cyrillic-NewYorkSmall-SemiboldItalic.woff2");
+  src: url("../NY/Subsets/cyrillic-NewYorkSmall-SemiboldItalic.woff2");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
