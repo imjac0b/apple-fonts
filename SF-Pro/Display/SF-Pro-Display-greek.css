@@ -1,0 +1,146 @@
+/* SF-Pro Display greek */
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Light.woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-LightItalic.woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Thin.woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-ThinItalic.woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-Ultralight.woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Pro";
+  src: url("SF-Pro/Subsets/greek-SF-Pro-Display-UltralightItalic.woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+

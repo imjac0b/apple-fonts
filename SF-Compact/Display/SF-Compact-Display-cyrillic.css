@@ -1,0 +1,74 @@
+/* SF-Compact Display cyrillic */
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Light.woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Thin.woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/cyrillic-SF-Compact-Display-Ultralight.woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+

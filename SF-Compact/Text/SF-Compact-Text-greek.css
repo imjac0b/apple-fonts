@@ -1,0 +1,146 @@
+/* SF-Compact Text greek */
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Light.woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-LightItalic.woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Thin.woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-ThinItalic.woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-Ultralight.woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF-Compact";
+  src: url("SF-Compact/Subsets/greek-SF-Compact-Text-UltralightItalic.woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+

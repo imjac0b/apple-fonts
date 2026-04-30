@@ -1,0 +1,384 @@
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkExtraLarge-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkLarge-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-Regular.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-RegularItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkMedium-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-BlackItalic.woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-Bold.woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-BoldItalic.woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-Heavy.woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-HeavyItalic.woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-Medium.woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-MediumItalic.woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-Regular.woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-RegularItalic.woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-Semibold.woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "NY";
+  src: url("NY/Subsets/greek-NewYorkSmall-SemiboldItalic.woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
